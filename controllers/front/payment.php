@@ -195,7 +195,7 @@ class PayfullPaymentModuleFrontController extends ModuleFrontController
             'cc_name'        => $data['paymentCardHolder'],
             'cc_number'        => $data['paymentCardNumber'],
             'cc_cvc'           => $data['paymentCardCVC'],
-            'cc_month'         => intval($data['paymentCardMonth']),
+            'cc_month'         => $data['paymentCardMonth'],
             'cc_year'          => intval($data['paymentCardYear']),
             'installments'   => intval($data['paymentInstallment']),
             
@@ -210,7 +210,7 @@ class PayfullPaymentModuleFrontController extends ModuleFrontController
         $installment = $this->module->enableInstallment ? $installment : 1;
         
         $payment['installments'] = $installment;
-        if($payment['installments']<1)
+        if($payment['installments']>1)
         {
             $payment['gateway']   = rtrim($data['paymentGateway']);
             $payment['bank_id'] = $data['paymentBankId'];

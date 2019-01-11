@@ -48,7 +48,7 @@
                         <img id="payment_card_number_loading" src="{$baseUri}/views/img/loading.gif" alt="{l s='loading...' mod='payfull'}">
                     </div>
                     <div class="payment-images" id="payment_card_images">
-                        <img id="payment_card_img_brand" src="" alt="">
+                        <img style="display:none" id="payment_card_img_brand" src="" alt="">
                         <img id="payment_card_img_bank" src="" alt="">
                     </div>
                     {if isset($errorMessage)}

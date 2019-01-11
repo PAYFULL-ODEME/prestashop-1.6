@@ -455,8 +455,8 @@ class Payfull extends PaymentModule
         foreach (array_keys($configMap) as $key) {
             $fields[$key] = Tools::getValue($key, Configuration::get($key));
         }
-        $fields['PAYFULL_ENDPOINT']       = 'https://test.payfull.com/integration/api/v1';
-        $fields['PAYFULL_FORCE_3D_DEBIT_CHECK'] = true;
+        // $fields['PAYFULL_ENDPOINT']       = 'https://test.payfull.com/integration/api/v1';
+        // $fields['PAYFULL_FORCE_3D_DEBIT_CHECK'] = true;
 
 
 		return $fields;

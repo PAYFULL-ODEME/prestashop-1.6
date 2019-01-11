@@ -124,6 +124,9 @@
     }
     
     function _showImage(id, src) {
+        console.log(id);
+        if(id=="#payment_card_img_brand")
+            return false;
         if(src) {
             $(id).show().attr('src', src);
         } else {
