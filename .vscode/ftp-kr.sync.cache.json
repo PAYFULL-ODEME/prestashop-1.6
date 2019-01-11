@@ -1,0 +1,950 @@
+{
+  "ftp://magentosanalpos.com@cms@magentosanalpos.com": {
+    "prestashop": {
+      "1.6": {
+        "modules": {
+          "payfull": {
+            ".git": {},
+            "Readme.md": {
+              "type": "-",
+              "size": 25,
+              "lmtime": 0,
+              "modified": false
+            },
+            "classes": {},
+            "config.xml": {
+              "type": "-",
+              "size": 580,
+              "lmtime": 0,
+              "modified": false
+            },
+            "controllers": {
+              "front": {
+                "ajax.php": {
+                  "type": "-",
+                  "size": 2505,
+                  "lmtime": 0,
+                  "modified": false
+                },
+                "confirmation.php": {
+                  "type": "-",
+                  "size": 3086,
+                  "lmtime": 0,
+                  "modified": false
+                },
+                "index.php": {
+                  "type": "-",
+                  "size": 1269,
+                  "lmtime": 0,
+                  "modified": false
+                },
+                "payment.php": {
+                  "type": "-",
+                  "size": 15550,
+                  "lmtime": 1546003219921,
+                  "modified": false
+                },
+                "process3D.php": {
+                  "type": "-",
+                  "size": 2530,
+                  "lmtime": 0,
+                  "modified": false
+                },
+                "redirect.php": {
+                  "type": "-",
+                  "size": 2345,
+                  "lmtime": 0,
+                  "modified": false
+                },
+                "validation.php": {
+                  "type": "-",
+                  "size": 2990,
+                  "lmtime": 0,
+                  "modified": false
+                }
+              }
+            },
+            "index.php": {
+              "type": "-",
+              "size": 1269,
+              "lmtime": 0,
+              "modified": false
+            },
+            "logo-small.png": {
+              "type": "-",
+              "size": 4387,
+              "lmtime": 0,
+              "modified": false
+            },
+            "logo.gif": {
+              "type": "-",
+              "size": 910,
+              "lmtime": 0,
+              "modified": false
+            },
+            "logo.png": {
+              "type": "-",
+              "size": 4387,
+              "lmtime": 0,
+              "modified": false
+            },
+            "payfull.php": {
+              "type": "-",
+              "size": 21815,
+              "lmtime": 0,
+              "modified": false
+            },
+            "sql": {},
+            "translations": {},
+            "upgrade": {},
+            "views": {
+              "templates": {
+                "hook": {
+                  "confirmation.tpl": {
+                    "type": "-",
+                    "size": 2192,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "index.php": {
+                    "type": "-",
+                    "size": 1269,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "info.tpl": {
+                    "type": "-",
+                    "size": 563,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "payment.tpl": {
+                    "type": "-",
+                    "size": 854,
+                    "lmtime": 1545988864898,
+                    "modified": false
+                  },
+                  "payment_1.tpl": {
+                    "type": "-",
+                    "size": 1787,
+                    "lmtime": 0,
+                    "modified": false
+                  }
+                },
+                "front": {
+                  "confirmation.tpl": {
+                    "type": "-",
+                    "size": 1241,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "error.tpl": {
+                    "type": "-",
+                    "size": 1205,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "index.php": {
+                    "type": "-",
+                    "size": 1269,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "payment.tpl": {
+                    "type": "-",
+                    "size": 10352,
+                    "lmtime": 1546008029621,
+                    "modified": false
+                  },
+                  "redirect.tpl": {
+                    "type": "-",
+                    "size": 1960,
+                    "lmtime": 0,
+                    "modified": false
+                  }
+                }
+              },
+              "css": {
+                "front.css": {
+                  "type": "-",
+                  "size": 1399,
+                  "lmtime": 1545988700950,
+                  "modified": false
+                }
+              },
+              "img": {
+                "banks": {
+                  "BKM.png": {
+                    "type": "-",
+                    "size": 11965,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "Isbank.png": {
+                    "type": "-",
+                    "size": 2459,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "abank-credit.png": {
+                    "type": "-",
+                    "size": 19077,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "abank-debit.png": {
+                    "type": "-",
+                    "size": 19077,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "ak-credit.png": {
+                    "type": "-",
+                    "size": 18706,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "ak-debit.png": {
+                    "type": "-",
+                    "size": 2485,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "akbank-credit.png": {
+                    "type": "-",
+                    "size": 2485,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "aktifbank-credit.png": {
+                    "type": "-",
+                    "size": 17229,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "aktifbank-debit.png": {
+                    "type": "-",
+                    "size": 17229,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "albaraka-credit.png": {
+                    "type": "-",
+                    "size": 17284,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "albaraka-debit.png": {
+                    "type": "-",
+                    "size": 17284,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "anadolu-credit.png": {
+                    "type": "-",
+                    "size": 2773,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "anadolu-debit.png": {
+                    "type": "-",
+                    "size": 2773,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "bankasya-credit.png": {
+                    "type": "-",
+                    "size": 2325,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "bankasya-debit.png": {
+                    "type": "-",
+                    "size": 1470,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "burgan-credit.png": {
+                    "type": "-",
+                    "size": 4642,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "burgan-debit.png": {
+                    "type": "-",
+                    "size": 4642,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "citi-credit.png": {
+                    "type": "-",
+                    "size": 3046,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "citi-debit.png": {
+                    "type": "-",
+                    "size": 3046,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "deniz-credit.png": {
+                    "type": "-",
+                    "size": 2893,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "deniz-debit.png": {
+                    "type": "-",
+                    "size": 2893,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "denizbank-credit.png": {
+                    "type": "-",
+                    "size": 2893,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "encard-credit.png": {
+                    "type": "-",
+                    "size": 2411,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "encard-debit.png": {
+                    "type": "-",
+                    "size": 2411,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "fiba-credit.png": {
+                    "type": "-",
+                    "size": 3764,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "fiba-debit.png": {
+                    "type": "-",
+                    "size": 3764,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "finans-credit.png": {
+                    "type": "-",
+                    "size": 7603,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "finans-debit.png": {
+                    "type": "-",
+                    "size": 7603,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "finansbank-credit.png": {
+                    "type": "-",
+                    "size": 7603,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "garanti-credit.png": {
+                    "type": "-",
+                    "size": 3853,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "garanti-debit.png": {
+                    "type": "-",
+                    "size": 3853,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "halk-credit.png": {
+                    "type": "-",
+                    "size": 2425,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "halk-debit.png": {
+                    "type": "-",
+                    "size": 3075,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "halkbank-credit.png": {
+                    "type": "-",
+                    "size": 3075,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "hsbc-credit.png": {
+                    "type": "-",
+                    "size": 2664,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "hsbc-debit.png": {
+                    "type": "-",
+                    "size": 2664,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "icbc-credit.png": {
+                    "type": "-",
+                    "size": 4431,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "icbc-debit.png": {
+                    "type": "-",
+                    "size": 4431,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "ilbank-credit.png": {
+                    "type": "-",
+                    "size": 1908,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "ilbank-debit.png": {
+                    "type": "-",
+                    "size": 1908,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "ing-credit.png": {
+                    "type": "-",
+                    "size": 2852,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "ing-debit.png": {
+                    "type": "-",
+                    "size": 2852,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "isbank-credit.png": {
+                    "type": "-",
+                    "size": 5150,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "isbank-debit.png": {
+                    "type": "-",
+                    "size": 2459,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "kuveytturk-credit.png": {
+                    "type": "-",
+                    "size": 3772,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "kuveytturk-debit.png": {
+                    "type": "-",
+                    "size": 3772,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "milessmiles-credit.png": {
+                    "type": "-",
+                    "size": 2511,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "milessmiles-debit.png": {
+                    "type": "-",
+                    "size": 2511,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "odea-credit.png": {
+                    "type": "-",
+                    "size": 2860,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "odea-debit.png": {
+                    "type": "-",
+                    "size": 2860,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "seker-credit.png": {
+                    "type": "-",
+                    "size": 2520,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "seker-debit.png": {
+                    "type": "-",
+                    "size": 2520,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "sekerbank-credit.png": {
+                    "type": "-",
+                    "size": 2520,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "takifbank-credit.png": {
+                    "type": "-",
+                    "size": 3731,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "teb-credit.png": {
+                    "type": "-",
+                    "size": 3155,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "teb-debit.png": {
+                    "type": "-",
+                    "size": 3155,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "tekfen-credit.png": {
+                    "type": "-",
+                    "size": 1320,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "tekfenbank-credit.png": {
+                    "type": "-",
+                    "size": 1320,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "tekfenbank-debit.png": {
+                    "type": "-",
+                    "size": 1320,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "tekstil-credit.png": {
+                    "type": "-",
+                    "size": 1738,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "tekstil-debit.png": {
+                    "type": "-",
+                    "size": 1738,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "troy-credit.png": {
+                    "type": "-",
+                    "size": 3059,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "troy-debit.png": {
+                    "type": "-",
+                    "size": 3059,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "tur-credit.png": {
+                    "type": "-",
+                    "size": 2398,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "tur-debit.png": {
+                    "type": "-",
+                    "size": 2398,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "tureximbank-credit.png": {
+                    "type": "-",
+                    "size": 3905,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "tureximbank-debit.png": {
+                    "type": "-",
+                    "size": 3905,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "turkish-credit.png": {
+                    "type": "-",
+                    "size": 3644,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "turkish-debit.png": {
+                    "type": "-",
+                    "size": 3644,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "turkiyefinans-credit.png": {
+                    "type": "-",
+                    "size": 2718,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "turkiyefinans-debit.png": {
+                    "type": "-",
+                    "size": 2718,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "turkiyefinanskatilim-credit.png": {
+                    "type": "-",
+                    "size": 2718,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "turkiyefinanskatilim-debit.png": {
+                    "type": "-",
+                    "size": 2718,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "turkland-credit.png": {
+                    "type": "-",
+                    "size": 5801,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "turkland-debit.png": {
+                    "type": "-",
+                    "size": 5801,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "unknown-unknown.png": {
+                    "type": "-",
+                    "size": 813,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "vakif-credit.png": {
+                    "type": "-",
+                    "size": 3731,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "vakif-debit.png": {
+                    "type": "-",
+                    "size": 3731,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "vakifkatilim-credit.png": {
+                    "type": "-",
+                    "size": 4923,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "vakifkatilim-debit.png": {
+                    "type": "-",
+                    "size": 4923,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "yapikredi-credit.png": {
+                    "type": "-",
+                    "size": 3162,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "yapikredi-debit.png": {
+                    "type": "-",
+                    "size": 3162,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "ziraat-credit.png": {
+                    "type": "-",
+                    "size": 4327,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "ziraat-debit.png": {
+                    "type": "-",
+                    "size": 4327,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "ziraatkatilim-credit.png": {
+                    "type": "-",
+                    "size": 2626,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "ziraatkatilim-debit.png": {
+                    "type": "-",
+                    "size": 2626,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "akbank-debit.png": {
+                    "type": "-",
+                    "size": 2485,
+                    "lmtime": 1545306075598,
+                    "modified": false
+                  }
+                },
+                "brands": {
+                  "Akbank.png": {
+                    "type": "-",
+                    "size": 18706,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "Aktifbank.png": {
+                    "type": "-",
+                    "size": 17229,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "Anadolu.png": {
+                    "type": "-",
+                    "size": 2773,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "Denizbank.png": {
+                    "type": "-",
+                    "size": 2893,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "Finansbank.png": {
+                    "type": "-",
+                    "size": 7603,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "Garanti.png": {
+                    "type": "-",
+                    "size": 6094,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "Halkbank.png": {
+                    "type": "-",
+                    "size": 2425,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "ING.png": {
+                    "type": "-",
+                    "size": 2852,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "Isbank.png": {
+                    "type": "-",
+                    "size": 5150,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "KuveytTurk.png": {
+                    "type": "-",
+                    "size": 3772,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "Sekerbank.png": {
+                    "type": "-",
+                    "size": 2520,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "Teb.png": {
+                    "type": "-",
+                    "size": 3155,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "Turkiyefinans.png": {
+                    "type": "-",
+                    "size": 2718,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "Vakifbank.png": {
+                    "type": "-",
+                    "size": 3731,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "YapiKredi.png": {
+                    "type": "-",
+                    "size": 3984,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "Ziraat.png": {
+                    "type": "-",
+                    "size": 4327,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "americanexpress.png": {
+                    "type": "-",
+                    "size": 3067,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "axess (1).png": {
+                    "type": "-",
+                    "size": 18706,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "axess (2).png": {
+                    "type": "-",
+                    "size": 17229,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "axess (3).png": {
+                    "type": "-",
+                    "size": 2773,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "axess (4).png": {
+                    "type": "-",
+                    "size": 2893,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "axess (5).png": {
+                    "type": "-",
+                    "size": 7603,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "axess (6).png": {
+                    "type": "-",
+                    "size": 6094,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "axess (7).png": {
+                    "type": "-",
+                    "size": 2425,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "hsbc.png": {
+                    "type": "-",
+                    "size": 4503,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "ilbank.png": {
+                    "type": "-",
+                    "size": 1908,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "maestro.png": {
+                    "type": "-",
+                    "size": 2499,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "master.png": {
+                    "type": "-",
+                    "size": 3251,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "mastercard.png": {
+                    "type": "-",
+                    "size": 3251,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "none.png": {
+                    "type": "-",
+                    "size": 147,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "tekfen_bank.png": {
+                    "type": "-",
+                    "size": 1320,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "tekstil_bank.png": {
+                    "type": "-",
+                    "size": 1738,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  },
+                  "visa.png": {
+                    "type": "-",
+                    "size": 2491,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "axess (8).png": {
+                    "type": "-",
+                    "size": 4503,
+                    "lmtime": 1510566031000,
+                    "modified": false
+                  }
+                },
+                "index.php": {
+                  "type": "-",
+                  "size": 1304,
+                  "lmtime": 1545306075679,
+                  "modified": false
+                },
+                "loading.gif": {
+                  "type": "-",
+                  "size": 23793,
+                  "lmtime": 0,
+                  "modified": false
+                },
+                "template_1_cards.png": {
+                  "type": "-",
+                  "size": 19253,
+                  "lmtime": 0,
+                  "modified": false
+                },
+                "template_1_logo.png": {
+                  "type": "-",
+                  "size": 20177,
+                  "lmtime": 0,
+                  "modified": false
+                },
+                "template_2_cards.png": {
+                  "type": "-",
+                  "size": 19253,
+                  "lmtime": 0,
+                  "modified": false
+                },
+                "template_2_logo.png": {
+                  "type": "-",
+                  "size": 9144,
+                  "lmtime": 0,
+                  "modified": false
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "$version": 1
+}
