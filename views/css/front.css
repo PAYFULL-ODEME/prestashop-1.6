@@ -2,6 +2,9 @@
     max-width: 500px;
     width: 100%;
 }
+.payfull_payment_module input[type="radio"], input[type="checkbox"]{
+    display: inline!important;
+}
 
 #payment_card_number_wrap {position: relative;}
 #payment_card_number_loading {position: absolute;top:0;bottom: 0;right:0;margin:auto;display:none;}
