@@ -18,6 +18,12 @@
               "lmtime": 0,
               "modified": false
             },
+            "config_tr.xml": {
+              "type": "-",
+              "size": 580,
+              "lmtime": 0,
+              "modified": false
+            },
             "controllers": {
               "front": {
                 "ajax.php": {
@@ -165,10 +171,22 @@
                 }
               },
               "css": {
+                "back.css": {
+                  "type": "-",
+                  "size": 1088,
+                  "lmtime": 0,
+                  "modified": false
+                },
                 "front.css": {
                   "type": "-",
-                  "size": 1399,
-                  "lmtime": 1545988700950,
+                  "size": 1504,
+                  "lmtime": 1547452008491,
+                  "modified": false
+                },
+                "index.php": {
+                  "type": "-",
+                  "size": 1269,
+                  "lmtime": 0,
                   "modified": false
                 }
               },
@@ -949,8 +967,8 @@
                 },
                 "front.js": {
                   "type": "-",
-                  "size": 6565,
-                  "lmtime": 1547211218615,
+                  "size": 6539,
+                  "lmtime": 1547449508684,
                   "modified": false
                 },
                 "index.php": {
