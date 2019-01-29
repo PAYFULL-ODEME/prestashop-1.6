@@ -331,7 +331,7 @@ class PayfullPaymentModuleFrontController extends ModuleFrontController
         $this->module->validateOrder($cart->id, $status, $total, $this->module->displayName, $message, $extra, $currency, false, $customer->secure_key);
         if($use3D===1)
         {
-            $oldCart = new Cart($id_cart);
+            $oldCart = new Cart($cart_id);
             $duplication = $oldCart->duplicate();
             $this->context->cookie->id_cart = $duplication['cart']->id;
             $context = $this->context;

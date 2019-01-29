@@ -55,7 +55,7 @@ class PayfullApi
         ]);
         $response = json_decode($response,true);
         $issuer_data=$this->issuer($bin);
-        $issuer = $issuer_data['data']['issuer'];
+        $issuer = $issuer_data['data']['bank_id'];
         $network = $issuer_data['data']['network'];
         $type = $issuer_data['data']['type'];
         $installments=[];
@@ -99,7 +99,7 @@ class PayfullApi
     public function pay($request)
     {
         $response = $this->sendRequest('Sale', $request);
-        if(strpos($response, '<form')) {
+        if(strpos($response, '<form') !== false || strpos($response, '</form>')) {
             $html=$response;
             $response=[];
             $response['status']=1;
