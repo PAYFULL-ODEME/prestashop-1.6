@@ -171,7 +171,7 @@ class PayfullApi
         $hashString = "";
         foreach ($data as $key=>$val) {
             $l = mb_strlen($val);
-            if($l) $hashString .= $l . $val;
+            $hashString .= $l . $val;
         }
         return hash_hmac("sha256", $hashString,$this->secret);
     }
